@@ -1,2 +1,2 @@
-# Ajolotes
-Pagina  web de Ajolotes, html y css
+# Axolotes
+Axolotes web page, with html and css
