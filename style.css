@@ -1,0 +1,84 @@
+body{
+    /*  background-color= cambiar color 
+    font- family = cambiar tipo de fuente */
+    background-color:#ffeff2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .imagen1{
+   /* width= tamaño  */
+    width: 300px;
+    display: block;
+    margin: auto;
+   
+    
+    }
+.titulo{
+    text-align: center;
+    color: #6e3444;
+    background-color:#ffb5c8;
+    font-family: 'Tilt Prism', cursive;
+    font: 100px 'Tilt Prism', cursive;;
+    font-size-adjust: 0.58;
+
+}
+ h3 {
+    text-align: center;
+    color: #6e3444;
+    background-color: #ffb5c8;
+    font: 50px Arial Narrow;
+    font-size-adjust: 0.5;
+ }
+ .texto1 {
+    text-align: center;
+    color: #6e3444;
+    background-color: #ffb5c8;
+    position: relative;
+    bottom: 50px;
+    font: 50px Arial Narrow;
+    font-size-adjust: 0.5;
+ }
+ .p1 {
+    color: #552130;
+    position: relative;
+    bottom: 48px;
+   }
+   .p2 {
+    color: #552130;
+    position: relative;
+    bottom: 48px;
+    text-align: justify;
+   }
+   .lista1 {
+    color: #e05b81;
+    position: relative;
+    bottom: 48px;
+   }
+    .p3 {
+        color: #552130;
+        position: relative;
+        bottom: 48px;
+        text-align: justify;
+       }
+
+
+   .p5 {
+    color: #552130;
+    text-align: justify;
+   }
+    a {
+        color: #421925;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .link2{
+        color: #552130;
+    
+    }
+    .imagen2{
+        width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 10px ;
+   
+    }
